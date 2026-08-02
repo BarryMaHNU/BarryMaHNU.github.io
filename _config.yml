@@ -8,7 +8,7 @@
 
 # 基本站点设置
 locale                   : "en-US"
-site_theme               : "sunrise" # 可用主题选项包括 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
+site_theme               : "mint" # 可用主题选项包括 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
 title                    : "Barry Ma Academic Pages"
 title_separator          : "-"
 name                     : &name "Your Name"
