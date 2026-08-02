@@ -30,7 +30,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "boma@hnu.edu.cn" 
 
   # 学术网站
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=h4wvZU4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  IEEEXplore       : "https://ieeexplore.ieee.org/author/37085993249"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # 用户名 - 请更新为你在该网站上的用户名
   codepen          : # 用户名
   dribbble         : # 用户名
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # 用户名
   stackoverflow    : # 用户编号，或用户编号和名称（例如使用 "1" 或 "1/jeff-atwood"）
 
