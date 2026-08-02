@@ -8,8 +8,8 @@
 
 # 基本站点设置
 locale                   : "en-US"
-site_theme               : "default" # 可用主题选项包括 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # 可用主题选项包括 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
+title                    : "Barry Ma / Academic Pages Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # 请用站点的概要描述更新此处；如果页面未单独覆盖，将默认使用此描述
@@ -27,8 +27,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # 示例："she/her"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Changsha"
+  employer         : "Hunan University"
   uri              : # URL
   email            : "boma@hnu.edu.cn" 
 
@@ -41,7 +41,7 @@ author:
   IEEEXplore       : "https://ieeexplore.ieee.org/author/37085993249"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
