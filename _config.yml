@@ -56,7 +56,7 @@ author:
 
   # 社交媒体
   artstation       : # 用户名
-  bluesky          : "bsky.app" # 将此处替换为你的 Bluesky 用户名
+  #bluesky          : "bsky.app" # 将此处替换为你的 Bluesky 用户名
   facebook         : # 用户名
   flickr           : # 用户名
   foursquare       : # 用户名
