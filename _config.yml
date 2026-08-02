@@ -1,4 +1,5 @@
 # 欢迎使用 Jekyll！
+# https://blog.csdn.net/qd1813100174/article/details/128604858
 #
 # 这个配置文件用于设置会影响整个站点的选项，这些值通常只需要
 # 设置一次，之后很少需要修改。
@@ -34,7 +35,7 @@ author:
   # 学术网站
   academia         : # URL
   arxiv            : # URL - 请更新为你的个人资料正确链接
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=h4wvZU4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
