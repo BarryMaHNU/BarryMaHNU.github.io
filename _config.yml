@@ -8,8 +8,8 @@
 
 # 基本站点设置
 locale                   : "en-US"
-site_theme               : "air" # 可用主题选项包括 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
-title                    : "Barry Ma / Academic Pages Title"
+site_theme               : "sunrise" # 可用主题选项包括 "default"、"air"、"sunrise"、"mint"、"dirt" 和 "contrast"
+title                    : "Barry Ma Academic Pages"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # 请用站点的概要描述更新此处；如果页面未单独覆盖，将默认使用此描述
