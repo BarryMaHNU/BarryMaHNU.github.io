@@ -47,6 +47,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.IEEEXplore %}
+        <li><a href="{{ author.IEEEXplore }}"><i class="fas fa-fw fa-book-open icon-pad-right" aria-hidden="true"></i>IEEE Xplore</a></li>
+      {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}      
