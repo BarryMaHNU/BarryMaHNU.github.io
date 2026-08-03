@@ -15,9 +15,17 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ domain }}{{ link.url }}">{% if page.lang contains 'zh' and link.title_zh %}{{ link.title_zh }}{% else %}{{ link.title }}{% endif %}</a>
             </li>
           {% endfor %}
+          {% if page.alternate_url %}
+            <li class="masthead__menu-item masthead__language-switch">
+              <a href="{{ page.alternate_url | relative_url }}" hreflang="{{ page.alternate_lang }}" lang="{{ page.alternate_lang }}" aria-label="{% if page.lang contains 'zh' %}Switch to English{% else %}切换到中文版{% endif %}">
+                <i class="fa-solid fa-language" aria-hidden="true"></i>
+                <span>{% if page.lang contains 'zh' %}EN{% else %}中文{% endif %}</span>
+              </a>
+            </li>
+          {% endif %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

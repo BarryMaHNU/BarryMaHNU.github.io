@@ -27,8 +27,11 @@ author:
   name             : "BO MA"
   pronouns         : # 示例："she/her"
   bio              : "Associate Professor of Electrical Engineering"
+  bio_zh           : "电气工程副教授"
   location         : "Changsha"
+  location_zh      : "长沙"
   employer         : "Hunan University"
+  employer_zh      : "湖南大学"
   uri              : # URL
   email            : "boma@hnu.edu.cn" 
 

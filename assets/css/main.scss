@@ -37,3 +37,19 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Compact language control next to the existing theme switch. */
+.masthead__language-switch > a {
+  align-items: center;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  display: inline-flex;
+  gap: 0.3em;
+  line-height: 1;
+  margin: 0.55em 0.35em;
+  padding: 0.35em 0.65em !important;
+}
+
+.masthead__language-switch .fa-language {
+  font-size: 0.95em;
+}
