@@ -53,7 +53,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-社会服务与学术兼职 (Academic Service)
+Academic Service
 ======
 
 ### Conference Service
