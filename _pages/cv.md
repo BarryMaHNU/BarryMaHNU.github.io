@@ -3,6 +3,9 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+lang: en
+alternate_lang: zh-CN
+alternate_url: /zh/cv/
 redirect_from:
   - /resume
 ---
@@ -12,7 +15,7 @@ redirect_from:
 Education
 ======
 
-*Ph.D in  Electrical Engineering, University of Technology Sydney, 2015, (Supervisor: Prof. Jianguo Zhu, Prof. Gang Lei）
+* Ph.D. in Electrical Engineering, University of Technology Sydney, 2015 (Supervisors: Prof. Jianguo Zhu and Prof. Gang Lei)
 * B.S. in Electrical Engineering, Hefei University of Technology, 2010
 
 Work experience

@@ -31,6 +31,7 @@ main:
   - title: "CV"
     title_zh: "个人简历"
     url: /cv/
+    url_zh: /zh/cv/
     
   # - title: "CV"
   #   url: /cv-json/
