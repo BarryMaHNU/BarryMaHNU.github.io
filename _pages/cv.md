@@ -53,6 +53,25 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+社会服务与学术兼职 (Academic Service)
 ======
-* Currently signed in to 43 different slack teams
+
+### Conference Service
+
+* 2021: Session Chair, IEEE 4th International Electrical and Energy Conference
+* 2025: Session Chair, IEEE 8th International Electrical and Energy Conference
+* 2026: Technical Committee Member, 3rd IEEE International Conference on Electrical Power Conversion Systems and Control
+* 2026: Track Chair, International Conference on Electrical Machines and Systems
+
+### Special Issue Editor
+
+* *Data-Driven Methods for Design and Analysis of Electromagnetic Devices: 3rd Edition*
+
+### Reviewer
+
+* IEEE Transactions on Transportation Electrification
+* IEEE Transactions on Energy Conversion
+* IEEE Transactions on Industrial Electronics
+* IEEE Transactions on Magnetics
+* Applied Energy
+* China Electrotechnical Society Transactions on Electrical Machines and Systems
