@@ -10,29 +10,19 @@ alternate_url: /cv/
 
 {% include base_path %}
 
-教育经历
-======
-
-* 电气工程博士，悉尼科技大学，2015年（导师：Jianguo Zhu 教授、Gang Lei 教授）
-* 电气工程学士，合肥工业大学，2010年
-
 工作经历
 ======
 
-* 2024年春：Academic Pages 协作者
-  * GitHub University
-  * 工作内容：更新和改进模板
-  * 指导教师：The Users
+* 2025年夏：副教授
+  * 湖南大学电气与信息工程学院
+* 2020年冬：助理教授
+  * 湖南大学电气与信息工程学院
 
-* 2015年秋：研究助理
-  * GitHub University
-  * 工作内容：合并拉取请求
-  * 指导教师：Professor Hub
+教育经历
+======
 
-* 2015年夏：研究助理
-  * GitHub University
-  * 工作内容：标记问题
-  * 指导教师：Professor Git
+* 电气工程博士，悉尼科技大学，2015-2020年（导师：Jianguo Zhu 教授、Gang Lei 教授）
+* 电气工程学士，合肥工业大学，2010-2014年
 
 专业技能
 ======
@@ -62,18 +52,15 @@ alternate_url: /cv/
 ======
 
 ### 会议服务
-
 * 2021年：IEEE 4th International Electrical and Energy Conference 分会主席（Session Chair）
 * 2025年：IEEE 8th International Electrical and Energy Conference 分会主席（Session Chair）
 * 2026年：3rd IEEE International Conference on Electrical Power Conversion Systems and Control 技术委员会委员
 * 2026年：International Conference on Electrical Machines and Systems 专题主席（Track Chair）
 
 ### 专题编辑
-
 * *Data-Driven Methods for Design and Analysis of Electromagnetic Devices: 3rd Edition*
 
 ### 期刊审稿
-
 * IEEE Transactions on Transportation Electrification
 * IEEE Transactions on Energy Conversion
 * IEEE Transactions on Industrial Electronics

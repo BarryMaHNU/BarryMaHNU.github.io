@@ -12,29 +12,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 
-* Ph.D. in Electrical Engineering, University of Technology Sydney, 2015 (Supervisors: Prof. Jianguo Zhu and Prof. Gang Lei)
-* B.S. in Electrical Engineering, Hefei University of Technology, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Associate Professor
+  * Hunan University, School of Electrical and Information Engineering
+* Winter 2020: Assistant Professor
+  * Hunan University, School of Electrical and Information Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Education
+======
+* Ph.D. in Electrical Engineering, University of Technology Sydney, 2015-2020 (Supervisors: Prof. Jianguo Zhu and Prof. Gang Lei)
+* B.S. in Electrical Engineering, Hefei University of Technology, 2010-2014
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -58,20 +49,14 @@ Teaching
   
 Academic Service
 ======
-
 ### Conference Service
-
 * 2021: Session Chair, IEEE 4th International Electrical and Energy Conference
 * 2025: Session Chair, IEEE 8th International Electrical and Energy Conference
 * 2026: Technical Committee Member, 3rd IEEE International Conference on Electrical Power Conversion Systems and Control
 * 2026: Track Chair, International Conference on Electrical Machines and Systems
-
 ### Special Issue Editor
-
 * *Data-Driven Methods for Design and Analysis of Electromagnetic Devices: 3rd Edition*
-
 ### Reviewer
-
 * IEEE Transactions on Transportation Electrification
 * IEEE Transactions on Energy Conversion
 * IEEE Transactions on Industrial Electronics
