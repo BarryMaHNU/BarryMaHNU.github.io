@@ -1,0 +1,13 @@
+{% include base_path %}
+
+<div class="publication-citation" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <p>
+    <span aria-hidden="true">[{{ include.number }}]</span>
+    <span class="sr-only">Publication {{ include.number }}: </span>
+    {% if post.citation %}
+      {{ post.citation }}
+    {% else %}
+      {% if post.link %}<a href="{{ post.link }}">{% endif %}{{ post.title }}{% if post.link %}</a>{% endif %}{% if post.venue %}. <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}.
+    {% endif %}
+  </p>
+</div>
