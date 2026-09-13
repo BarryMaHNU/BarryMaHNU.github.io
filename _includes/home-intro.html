@@ -1,0 +1,7 @@
+{% assign research_url = '/cv/#research-interests' %}
+{% if page.lang contains 'zh' %}
+  {% assign research_url = '/zh/cv/' %}
+  <p>我们的研究主要聚焦于电驱与发电系统设计、电机系统多物理场分析，以及面向智能优化的工业软件开发，致力于推动更高效、更智能、更绿色的电能转换与利用。我们围绕电机系统中的新型拓扑、先进设计方法、多物理场建模与分析，以及智能优化算法开展研究，为电力生产、电能转换和交通电气化等应用提供技术支持。我们的研究成果涵盖可持续与可再生能源、交通电气化和智能工业软件等方向。研究方向概览请参阅<a href="{{ research_url | relative_url }}">研究方向</a>，已发表的学术论文请参阅<a href="{{ '/publications/' | relative_url }}">学术论文</a>。</p>
+{% else %}
+  <p>Our research focuses on the design of electric drive and power generation systems, multiphysics analysis of electric machine systems, and the development of industrial software for intelligent optimization. We aim to enable more efficient, intelligent, and sustainable power generation, conversion, and use. We explore new topologies, advanced design methods, multiphysics modeling and analysis, and intelligent optimization algorithms to support applications in power systems, energy conversion, and transport electrification. Our work contributes to Sustainable and Renewable Energy, Transport Electrification, and intelligent industrial software. An overview of our research can be found in the <a href="{{ '/cv/#research-interests' | relative_url }}">Research Interests</a> section, and our published academic papers are listed under <a href="{{ '/publications/' | relative_url }}">Publications</a>.</p>
+{% endif %}

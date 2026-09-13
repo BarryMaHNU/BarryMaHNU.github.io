@@ -12,7 +12,11 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
 
+* Design of electric drive and power generation systems
+* Development of industrial software for multiphysics analysis and intelligent optimization of electric machine systems
 
 Work experience
 ======
