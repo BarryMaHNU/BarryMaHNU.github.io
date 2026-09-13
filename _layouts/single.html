@@ -47,6 +47,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {% if page.url == '/' or page.url == '/zh/' %}
           {% include home-intro.html %}
+          {% include cv-content.html %}
         {% else %}
           {{ content }}
         {% endif %}
