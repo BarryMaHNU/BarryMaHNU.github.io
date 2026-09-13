@@ -47,7 +47,8 @@ layout: default
       <section class="page__content" itemprop="text">
         {% if page.url == '/' or page.url == '/zh/' %}
           {% include home-intro.html %}
-          {% include cv-content.html %}
+          {% capture cv_content %}{% include cv-content.html %}{% endcapture %}
+          {{ cv_content | markdownify }}
         {% else %}
           {{ content }}
         {% endif %}
